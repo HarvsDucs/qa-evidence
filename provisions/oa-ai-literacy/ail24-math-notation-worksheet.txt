@@ -1,0 +1,47 @@
+GRADE 7 MATHEMATICS — WORKSHEET: EXPONENTS, FRACTIONS, AND EQUATIONS
+
+A. LAWS OF EXPONENTS
+
+The area of a square with side s is s². The volume of a cube is s³.
+Recall: a² × a³ = a⁵ (add the exponents), and (a²)³ = a⁶ (multiply them).
+Scientific notation: the speed of light is about 3.0 × 10⁸ m/s, and one mole
+contains 6.02 × 10²³ particles.
+
+1. Simplify: 2⁴ × 2³ = ?
+2. Write 45,000,000 in scientific notation.
+3. If s = 5 cm, find the volume s³ of the cube.
+
+B. FRACTIONS AND DECIMALS
+
+A recipe uses ½ cup of sugar and ¾ cup of flour. Ana only wants to make
+half the recipe, so she needs ¼ cup of sugar and ⅜ cup of flour.
+
+4. Compute: ½ + ⅓ = ? (Express as a single fraction: 5/6.)
+5. Which is larger, ⅝ or 0.6? Show your comparison.
+6. Simplify the fraction 18/24 to lowest terms.
+
+C. MONEY PROBLEMS (PHILIPPINE PESO)
+
+Mang Ben sells taho. One cup costs ₱25.00. A student pays with a ₱100 bill
+and buys 3 cups.
+
+7. How much change does the student receive? (3 × ₱25.00 = ₱75.00)
+8. If Mang Ben's daily cost is ₱1,250.50 and he earns ₱2,000.00 in sales,
+   what is his profit in pesos?
+
+D. LINEAR EQUATIONS
+
+Solve for x:
+9.  2x + 5 = 13
+10. (x/4) − 3 = 7
+11. 3(x − 2) = x + 10
+
+E. ROOTS, RATIOS, AND GEOMETRY
+
+12. Evaluate: √144 + √25 = ?
+13. The circumference of a circle is C = 2πr, with π ≈ 3.14159.
+    Find C when r = 10 cm.
+14. A map scale is 1:50,000. Two towns are 4 cm apart on the map.
+    What is the real distance in km?
+15. Acceleration due to gravity is 9.8 m/s². If a stone falls for 3 s,
+    its speed is v = gt = 9.8 × 3 = 29.4 m/s.
